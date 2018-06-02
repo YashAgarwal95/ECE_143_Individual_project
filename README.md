@@ -2,5 +2,5 @@
 
 #The problem statement is the pdf named ECE143IndividualClassProject
 
-#The code is written in Python 3 and requires matplotlib, numpy , maths and random as dependencies
+#The code is written in Python 3 and requires matplotlib, numpy , math and random as dependencies
  
